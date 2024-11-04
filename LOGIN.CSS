@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+    /* this is a cont from login page */
+.cont{
+    width: 1345px;
+    height: 100vh;
+        background-image: url(/photo/abs-g3d3a41f25_1280.jpg);
+
+}
+.mohit{
+    width: 556px;
+    height: 400px;
+    display: block;
+    color: white;
+    margin: 3px 3px;
+    
+    float: right;
+}
+form{
+    
+    width: 250px;
+    display: block;
+    margin: 10px auto;
+    background: #020202;
+}
+.fgroup{
+    border: 2px solid rgb(170, 143, 143); 
+    margin: 20px 5px;
+    padding: 10px 1px;
+}
+.bt{
+    margin: 0px 35px;
+    padding: 4px 12px;
+}
+.btn1{
+    border-radius: 6px;
+    background-color: #67b9b9;
+   margin: 0px 12px ; 
+   padding: 1px 1px ;
+   font-weight: 600;
+    
+}
+.btn2{
+border-radius: 6px;
+    background-color: #67b9b9;
+   font-weight: 600;
+    
+}
+.btn1:hover{
+    background-color:aqua;
+    cursor: pointer;
+
+}
+.btn2:hover{
+    background-color:aqua;
+    cursor: pointer;
+
+}
